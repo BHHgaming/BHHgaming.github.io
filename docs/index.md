@@ -1,7 +1,7 @@
 # Core Functions
 
 API Documentation for Infinite Yield FE Edition
-(Credits to Greenman for writing most of the documentation.)
+(Credits to Greenman for writing some of the documentation.)
 
 ## getstring
     string getstring(int argumentindex)
